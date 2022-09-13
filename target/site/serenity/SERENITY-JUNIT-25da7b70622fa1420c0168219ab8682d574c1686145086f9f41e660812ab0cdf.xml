@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Yo como usuario del servicio necesito Crear, Buscar, Actualizar y Eliminar computadores de la Database" skipped="0" tests="4" time="34.36" timestamp="2022-09-12 08:28:02"><testcase name="Crear un registro de un computador"><failure message="&#10;Expected: &lt;true&gt;&#10;     but: was &lt;false&gt;" type="java.lang.AssertionError">
+Expected: &lt;true&gt;
+     but: was &lt;false&gt;</failure><system-err>
+Expected: &lt;true&gt;
+     but: was &lt;false&gt;&#13;
+co.com.certifications.database.stepsdefinitions.CrudStepsDefinitions.seVizualizaElMensajeDoneComputerAsdHasBeenCreated(CrudStepsDefinitions.java:56)&#13;
+✽.se vizualiza el mensaje Done! Computer asd has been created(src/test/resources/features/CRUD.feature:12)&#13;
+</system-err></testcase></testsuite>

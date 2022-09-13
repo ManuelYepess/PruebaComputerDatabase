@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Yo como usuario del servicio necesito Crear, Buscar, Actualizar y Eliminar computadores de la Database" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-09-13T01:52:19" hostname="YEPES-PC" time="8.258">
+  <properties/>
+  <testcase name="Borrar un registro" classname="Yo como usuario del servicio necesito Crear, Buscar, Actualizar y Eliminar computadores de la Database" time="8.258"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[sep 12, 2022 8:52:20 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 105.0.5195.52 (412c95e518836d8a7d97250d62b29c2ae6a26a85-refs/branch-heads/5195@{#853}) on port 10227
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+sep 12, 2022 8:52:23 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>
